@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>Aplicação para gestão de inventário e realização de pedidos</description>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_1259671_gest_o_0.admin,x_1259671_gest_o_0.user,admin,x_1259671_gest_o_0.analistas_role,x_1259671_gest_o_0.supervisores_role</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 07:59:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ff90177b93b6b110e1de367f3bba10ba</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Gestão de Inventário</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+        <sys_update_name>sys_app_application_ff90177b93b6b110e1de367f3bba10ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-08 01:16:26</sys_updated_on>
+        <title>Gestão de Inventário</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
