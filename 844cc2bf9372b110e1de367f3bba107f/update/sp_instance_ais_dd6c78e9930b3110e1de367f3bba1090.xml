@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="1">9d6c78e9930b3110e1de367f3bba108d</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 07:39:38</sys_created_on>
+        <sys_id>dd6c78e9930b3110e1de367f3bba1090</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Bem vindo, o que você procura?</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+        <sys_update_name>sp_instance_ais_dd6c78e9930b3110e1de367f3bba1090</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 08:04:11</sys_updated_on>
+        <title>Bem vindo, o que você procura?</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_ais>
+    <sys_translated_text action="delete_multiple" query="documentkey=dd6c78e9930b3110e1de367f3bba1090"/>
+</record_update>

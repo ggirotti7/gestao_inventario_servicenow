@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>other</category>
+        <css>section.page {
+	background-color: $sp-homepage-bg;
+}
+section.page, main.body {
+    padding-top: 0px !important;
+}
+
+.list-group-item {
+    position: relative;
+    display: flex;
+ 		flex-direction: column;  
+    max-width:1280px;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>portalgestao_index</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description>Página inicial do Portal de gestão de inventário. </short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 07:39:38</sys_created_on>
+        <sys_id>9d6c30a9930b3110e1de367f3bba1055</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>portalgestao_index</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+        <sys_update_name>sp_page_9d6c30a9930b3110e1de367f3bba1055</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 08:25:52</sys_updated_on>
+        <title>Página Inicial Portal</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d6c30a9930b3110e1de367f3bba1055"/>
+</record_update>

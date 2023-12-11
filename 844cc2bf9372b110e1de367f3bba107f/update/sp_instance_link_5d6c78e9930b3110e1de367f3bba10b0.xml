@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>briefcase</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Botão para realizar novo pedido</short_description>
+        <size>md</size>
+        <sp_column display_value="1">156c78e9930b3110e1de367f3bba10ae</sp_column>
+        <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 07:39:39</sys_created_on>
+        <sys_id>5d6c78e9930b3110e1de367f3bba10b0</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Fazer novo pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+        <sys_update_name>sp_instance_link_5d6c78e9930b3110e1de367f3bba10b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 09:38:37</sys_updated_on>
+        <title>Fazer novo pedido</title>
+        <type>url</type>
+        <url>https://dev189671.service-now.com/portalinventario?id=form&amp;is_new_order=true&amp;table=x_1259671_gest_o_0_pedidos&amp;sys_id=-1</url>
+        <widget_parameters><![CDATA[{
+	"template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	},
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=5d6c78e9930b3110e1de367f3bba10b0"/>
+</record_update>
