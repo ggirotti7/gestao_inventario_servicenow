@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Página Inicial Portal - Container 4</name>
+        <order>4</order>
+        <semantic_tag/>
+        <sp_page display_value="portalgestao_index">9d6c30a9930b3110e1de367f3bba1055</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 07:56:55</sys_created_on>
+        <sys_id>9e508121934b3110e1de367f3bba107f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Página Inicial Portal - Container 4</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+        <sys_update_name>sp_container_9e508121934b3110e1de367f3bba107f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 07:56:55</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

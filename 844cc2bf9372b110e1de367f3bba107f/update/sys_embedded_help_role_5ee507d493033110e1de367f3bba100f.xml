@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1259671_gest_o_0.analistas_role" name="x_1259671_gest_o_0.analistas_role">21a58fd493033110e1de367f3bba1095</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 20:28:03</sys_created_on>
+        <sys_id>5ee507d493033110e1de367f3bba100f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>21a58fd493033110e1de367f3bba1095</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5ee507d493033110e1de367f3bba100f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 20:28:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

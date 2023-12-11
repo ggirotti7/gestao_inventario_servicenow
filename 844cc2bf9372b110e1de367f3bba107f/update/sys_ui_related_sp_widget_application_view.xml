@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sp_widget" version="2" view="application_view">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - Application view" name="sp_widget" related_list="NULL" sys_domain="global" view="81f87ca5930b3110e1de367f3bba1009">c1f87ca5930b3110e1de367f3bba100d</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>m2m_sp_widget_dependency.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 07:24:37</sys_created_on>
+            <sys_id>c9f87ca5930b3110e1de367f3bba100e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 07:24:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - Application view" name="sp_widget" related_list="NULL" sys_domain="global" view="81f87ca5930b3110e1de367f3bba1009">c1f87ca5930b3110e1de367f3bba100d</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>m2m_sp_ng_pro_sp_widget.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 07:24:37</sys_created_on>
+            <sys_id>05f87ca5930b3110e1de367f3bba100f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 07:24:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - Application view" name="sp_widget" related_list="NULL" sys_domain="global" view="81f87ca5930b3110e1de367f3bba1009">c1f87ca5930b3110e1de367f3bba100d</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sp_ng_template.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 07:24:37</sys_created_on>
+            <sys_id>09f87ca5930b3110e1de367f3bba100f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 07:24:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - Application view" name="sp_widget" related_list="NULL" sys_domain="global" view="81f87ca5930b3110e1de367f3bba1009">c1f87ca5930b3110e1de367f3bba100d</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:99079b30d7301200a9addd173e24d481</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 07:24:37</sys_created_on>
+            <sys_id>0df87ca5930b3110e1de367f3bba100f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 07:24:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - Application view" name="sp_widget" related_list="NULL" sys_domain="global" view="81f87ca5930b3110e1de367f3bba1009">c1f87ca5930b3110e1de367f3bba100d</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sp_instance.sp_widget</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 07:24:37</sys_created_on>
+            <sys_id>01f87ca5930b3110e1de367f3bba1010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 07:24:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Widget - Application view" name="sp_widget" related_list="NULL" sys_domain="global" view="81f87ca5930b3110e1de367f3bba1009">c1f87ca5930b3110e1de367f3bba100d</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>REL:67bdac52374010008687ddb1967334ee</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 07:24:37</sys_created_on>
+            <sys_id>05f87ca5930b3110e1de367f3bba1010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 07:24:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Widget - Application view</calculated_name>
+            <filter/>
+            <name>sp_widget</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 07:24:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1f87ca5930b3110e1de367f3bba100d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Widget - Application view</sys_name>
+            <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+            <sys_update_name>sys_ui_related_sp_widget_application_view</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 07:24:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Application view" name="application_view">81f87ca5930b3110e1de367f3bba1009</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

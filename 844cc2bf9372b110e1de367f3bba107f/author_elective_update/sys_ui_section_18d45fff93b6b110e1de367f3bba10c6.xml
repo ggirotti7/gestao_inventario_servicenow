@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="seção" section_id="18d45fff93b6b110e1de367f3bba10c6" sys_domain="global" table="x_1259671_gest_o_0_pedidos" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 08:16:14</sys_created_on>
+            <sys_id>e8d49fff93b6b110e1de367f3bba1014</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="seção" display_value="seção" name="x_1259671_gest_o_0_pedidos" sys_domain="global" view="Default view">18d45fff93b6b110e1de367f3bba10c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 08:16:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 08:16:14</sys_created_on>
+            <sys_id>6cd49fff93b6b110e1de367f3bba1014</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="seção" display_value="seção" name="x_1259671_gest_o_0_pedidos" sys_domain="global" view="Default view">18d45fff93b6b110e1de367f3bba10c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 08:16:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 08:16:14</sys_created_on>
+            <sys_id>ecd49fff93b6b110e1de367f3bba1014</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="seção" display_value="seção" name="x_1259671_gest_o_0_pedidos" sys_domain="global" view="Default view">18d45fff93b6b110e1de367f3bba10c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 08:16:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 08:16:14</sys_created_on>
+            <sys_id>60d49fff93b6b110e1de367f3bba1015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="seção" display_value="seção" name="x_1259671_gest_o_0_pedidos" sys_domain="global" view="Default view">18d45fff93b6b110e1de367f3bba10c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 08:16:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>seção</caption>
+            <header>false</header>
+            <name>x_1259671_gest_o_0_pedidos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 08:16:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18d45fff93b6b110e1de367f3bba10c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1259671_gest_o_0_pedidos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+            <sys_update_name>sys_ui_section_18d45fff93b6b110e1de367f3bba10c6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 08:16:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</application>
+        <file_path/>
+        <instance_id>ff5f0558dbce7554ae4c9027c59619d2</instance_id>
+        <instance_name>dev189671</instance_name>
+        <name>sys_ui_section_18d45fff93b6b110e1de367f3bba10c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="seção" section_id="18d45fff93b6b110e1de367f3bba10c6" sys_domain="global" table="x_1259671_gest_o_0_pedidos" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 08:16:14</sys_created_on><sys_id>e8d49fff93b6b110e1de367f3bba1014</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="seção" display_value="seção" name="x_1259671_gest_o_0_pedidos" sys_domain="global" view="Default view">18d45fff93b6b110e1de367f3bba10c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 08:16:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 08:16:14</sys_created_on><sys_id>6cd49fff93b6b110e1de367f3bba1014</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="seção" display_value="seção" name="x_1259671_gest_o_0_pedidos" sys_domain="global" view="Default view">18d45fff93b6b110e1de367f3bba10c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 08:16:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 08:16:14</sys_created_on><sys_id>ecd49fff93b6b110e1de367f3bba1014</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="seção" display_value="seção" name="x_1259671_gest_o_0_pedidos" sys_domain="global" view="Default view">18d45fff93b6b110e1de367f3bba10c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 08:16:14</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 08:16:14</sys_created_on><sys_id>60d49fff93b6b110e1de367f3bba1015</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="seção" display_value="seção" name="x_1259671_gest_o_0_pedidos" sys_domain="global" view="Default view">18d45fff93b6b110e1de367f3bba10c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 08:16:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>seção</caption><header>false</header><name>x_1259671_gest_o_0_pedidos</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 08:16:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>18d45fff93b6b110e1de367f3bba10c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1259671_gest_o_0_pedidos</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope><sys_update_name>sys_ui_section_18d45fff93b6b110e1de367f3bba10c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 08:16:14</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1018143744</payload_hash>
+        <record_name>Pedidos</record_name>
+        <reverted_from/>
+        <source>444cc2bf9372b110e1de367f3bba1083</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 08:16:15</sys_created_on>
+        <sys_id>60d49fff93b6b110e1de367f3bba1017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3e32f0a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 08:16:15</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e4d49fff51b6b110ba77f16d92d8b316</update_guid>
+        <update_guid_history>e4d49fff51b6b110ba77f16d92d8b316:-1018143744</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 08:16:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>275ad800344e428abb4503cda6553ba1</sys_id>
+        <sys_metadata>18d45fff93b6b110e1de367f3bba10c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>seção</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259671_gest_o_0">844cc2bf9372b110e1de367f3bba107f</sys_package>
+        <sys_parent display_value="Pedidos">26accabf9372b110e1de367f3bba1081</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">844cc2bf9372b110e1de367f3bba107f</sys_scope>
+        <sys_scope_delete display_value="">4186e182ee864d009d37555a20002e40</sys_scope_delete>
+        <sys_update_name>sys_ui_section_18d45fff93b6b110e1de367f3bba10c6</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_18d45fff93b6b110e1de367f3bba10c6">60d49fff93b6b110e1de367f3bba1017</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 08:16:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
